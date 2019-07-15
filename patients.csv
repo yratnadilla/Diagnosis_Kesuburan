@@ -1,0 +1,6 @@
+Name,Age,Childish diseases_no,Childish diseases_yes,Accident or serious trauma_yes,Accident or serious trauma_no,Surgical intervention_yes,Surgical intervention_no,High fevers in the last year_more than 3 months ago,High fevers in the last year_less than 3 months ago,High fevers in the last year_no,Frequency of alcohol consumption_once a week,Frequency of alcohol consumption_hardly ever or never,Frequency of alcohol consumption_several times a week,Frequency of alcohol consumption_several times a day,Frequency of alcohol consumption_every day,Smoking habit_occasional,Smoking habit_daily,Smoking habit_never,Number of hours spent sitting per day
+Arin,29,1,0,0,1,0,1,0,0,1,0,0,0,0,1,0,1,0,5
+Bebi,31,1,0,1,0,1,0,0,0,1,0,0,1,0,0,0,0,1,24
+Caca,25,0,1,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1,7
+Dini,28,1,0,1,0,1,0,0,0,1,0,1,0,0,0,0,1,0,24
+Enno,42,0,1,0,1,0,1,0,0,1,0,1,0,0,0,0,0,1,8
